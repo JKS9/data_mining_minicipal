@@ -1,0 +1,12 @@
+Exercice 1 :
+
+A partir des résultat des Municipales provenant du gouvernement du 15 mars et du 28 juin 2020 vous devrez récupérer les informations suivantes : 
+
+https://parisdata.opendatasoft.com/explore/dataset/elections-municipales-2020-1ertour/information/
+https://parisdata.opendatasoft.com/explore/dataset/elections-municipales-2020-2emetour/information/
+
+Suite à cette récupération vous devrez réaliser une extraction de données pour permettre de déterminer sur paris et par arrondissement les couleurs des forces politiques à travers Paris.
+
+Vous devrez réaliser une étude comparative du premier tour et du second tour pour constater les évolutions entre les deux premier tours pour chaque arrondissement et par bureau de vote.
+
+Vous devrez réaliser une carte de paris et vous réaliserez une projection des couleurs politiques des parties les plus représentés.

@@ -1,0 +1,15 @@
+Exercice 2 :
+
+A partir de l’extraction d’information que vous avez collecté vous devrez réaliser par arrondissement une dataviz de type pie chart avec pour
+chacun des deux tours la couleur politique en fonction du nombre de votant pour chaque arrondissement à la fois pour le tour 1 et pour le tour 2.
+
+Vous devrez ensuite commenté pour chaque arrondissement et constater les évolutions jusqu’au tour final.
+
+Vous devrez comparer pour chaque bureau de vote les chiffres suivants :
+NB_PROCU
+NB_INSCR
+NB_EMARG
+NB_VOTANT
+NB_BLANC
+NB_NUL
+NB_EXPRIM

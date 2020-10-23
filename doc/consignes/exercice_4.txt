@@ -1,0 +1,16 @@
+Exercice 4 :
+
+A présent que vous avez simuler les élections Municipale de paris en 2022. Vous devez maintenant créer votre parti politique et prendre des décisions à 
+partir de vos modèles simulé. 
+
+Pour ce faire vous devez créer :
+	- Un parti politique fictif avec une couleur et un logo.
+	- Choisir un futur maire dans votre groupe qui va représenter vos couleurs.
+	- Elaborer un mini programme (attention aucun débordement ne sera toléré restez fun)
+	- A partir de vos dernier chiffres élaborer une campagne politique avec :
+			- Les arrondissements que vous pourriez potentiellement ciblé grâce aux dernières élections dite pourquoi
+			- Les messages que vous pourriez élaborer par rapport aux couleurs dominantes des dernières élections (faite du marketing/com personnalisé par arrondissement)
+			- Les supports de campagne que vous pourriez mettre en place pour convertir un maximum de personne
+	- Réalisez une campagne avec un slogan et vos couleurs en utilisant tous les moyens à votre disposition pour étendre vos idées et votre programme à travers Paris.
+
+Vous avez le droit d’exploiter le maximum de données extérieur complémentaire aux données que vous avez déjà collecté dans le premier exercice.

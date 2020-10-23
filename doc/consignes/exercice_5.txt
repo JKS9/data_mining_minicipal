@@ -1,0 +1,27 @@
+Vous devrez présenter votre travail à la classe avec des slides présentations. Vous devrez réaliser une présentation en deux partie.
+Pensez à organiser votre ordre de passage !
+
+* Première partie (5-10 min) :
+    La présentation de votre candidat qui devra pendant 5 à 10 min présenter son discour et son programme.
+    (Attention restez courtois pas de dérapage dans vos propos merci !)
+    Un vote sur le candidat le plus convaincant sera organisé (pas de note là dessus)
+    Deuxième partie (10 -15 min) :
+    Justifier le premier discours par vos analyses grâce au data mining et à vos modèles.
+    Vous serez noté sur cette présentation et sur l’analyse de données que vous aurez réalisé.  
+
+
+Vous devrez suivre le plan suivant pour réaliser vos présentations :  
+* Partie 1 :
+    Présenter le candidat et son programme
+    Musique introduction du candidat
+    Le discour du candidat
+    Conclusion du candidat
+
+* Partie 2 :
+    Présenter votre équipe de campagne et votre candidat
+    Le sujet de votre étude  de campagne
+    Présenter l’origine de vos données 
+    Présenter vos dataviz et vos axes de corrélation et de prédiction
+    Présenter vos simulations et vos données et comment vous les avez obtenu
+    Les résultats que préfigure votre étude et vos projections
+    Remercier votre auditoire

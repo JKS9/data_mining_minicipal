@@ -1,0 +1,13 @@
+Exercice 3 :
+
+A partir des données et des data viz réalisée vous devez à présent réaliser une simulation prenant en compte tous les facteurs que vous jugerez pertinent. 
+A vous ensuite de modifier ses facteurs pour simuler la maximum d’élection basé sur des données prédictive. 
+Selon vos chiffres vous devrez sélectionner les élections qui vous seront le plus profitable.
+
+Vous devrez argumenter sur un document et mettre une conclusion sur les scénarios les plus probables pour votre campagne qui peut se dérouler le
+jours des élections.  Il est attendu un commentaire explicatif à partir de vos chiffres.
+
+Je vous encourage à également à utiliser la presse pour un retour dans le temps et mettre en corrélation certain facteurs qui pourraient 
+influer les futures élections municipal.
+
+Vous devrez par la suite réaliser une analyse avec un commentaire sur les résultats que vous avez obtenu.
