@@ -1,0 +1,33 @@
+[
+    {
+        "label": "Rassemblement National",
+        "value": 749
+    }, {
+        "label": "Divers centre",
+        "value": 2506
+    }, {
+        "label": "La France insoumise",
+        "value": 891
+    }, {
+        "label": "Union du centre",
+        "value": 9582
+    }, {
+        "label": "Union de la droite",
+        "value": 16931
+    }, {
+        "label": "Extrême gauche",
+        "value": 197
+    }, {
+        "label": "Europe Ecologie-Les Verts",
+        "value": 3843
+    }, {
+        "label": "Liberons Paris",
+        "value": 187
+    }, {
+        "label": "Union de la gauche",
+        "value": 7103
+    }, {
+        "label": "Parisiennes, parisiens",
+        "value": 248
+    }
+]

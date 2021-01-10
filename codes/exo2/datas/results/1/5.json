@@ -1,0 +1,42 @@
+[
+    {
+        "label": "La France insoumise",
+        "value": 527
+    }, {
+        "label": "Mr PREAU Jean",
+        "value": 22
+    }, {
+        "label": "Divers droite",
+        "value": 318
+    }, {
+        "label": "Extrême gauche",
+        "value": 79
+    }, {
+        "label": "Divers centre",
+        "value": 1322
+    }, {
+        "label": "Divers droite",
+        "value": 352
+    }, {
+        "label": "Mr GHOSN Georges",
+        "value": 62
+    }, {
+        "label": "Rassemblement National",
+        "value": 211
+    }, {
+        "label": "Union de la gauche",
+        "value": 4448
+    }, {
+        "label": "Mme PESKINE Hélène",
+        "value": 153
+    }, {
+        "label": "Union de la droite",
+        "value": 3023
+    }, {
+        "label": "Europe Ecologie-Les Verts",
+        "value": 1997
+    }, {
+        "label": "Union du centre",
+        "value": 4987
+    }
+]
